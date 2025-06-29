@@ -1,6 +1,10 @@
-# Welcome to your Expo app 👋
+# Welcome to Movie Flix 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A mobile movie app built with Expo and React Native, powered by Appwrite for backend services and the TMDB API for real-time movie data.
+
+This app was built as a learning project by following a tutorial by JavaScript Mastery. It helped me understand Expo, React Native, Appwrite, and how to work with TMDB API.
+
+YouTube tutorial: https://youtu.be/f8Z9JyB2EIE?si=_6q2SkrYZxgaKrdC
 
 ## Get started
 
